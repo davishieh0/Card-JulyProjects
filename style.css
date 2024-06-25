@@ -28,3 +28,21 @@ body{
     border: 1px solid #bababa;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+.cards-item p{
+    font-size: 1rem;
+  
+}
+
+.cards-item:hover{
+    height: 350px;
+    width: 450px;
+    
+}
+.cards-item:hover{
+    height: 350px;
+    width: 450px;
+    
+}
+.cards-item:active{
+    transform: translateY(-10px);
+}
